@@ -1,35 +1,54 @@
 # 👋 Hi, I'm Brijesh
 
-Frontend-focused Full-Stack Engineer passionate about building **clean, scalable, and user-centric web applications** using modern JavaScript frameworks and backend architectures.
+🚀 **Frontend-focused Full-Stack Engineer**  
+I build **clean, scalable, and user-centric web applications** with modern JavaScript, strong backend fundamentals, and real-world product thinking.
 
-I enjoy turning complex requirements into simple, intuitive experiences and shipping real products—not just demos.
+I enjoy turning complex requirements into **simple, intuitive experiences** — and shipping **real products**, not just demos.
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Frontend Engineer with strong full-stack experience
-- 🧠 Focused on **React performance, state management, and UX clarity**
-- 🏗️ Experienced in building **production-ready MVPs** (not over-engineered demos)
-- 🔐 Comfortable with authentication, real-time features, and REST APIs
-- 📈 Always improving code quality, folder structure, and developer experience
+- 💻 Frontend engineer with strong full-stack ownership
+- 🧠 Deep focus on **React performance, state management, and UX clarity**
+- 🏗️ Experienced in building **production-ready MVPs** (scope-driven, not over-engineered)
+- 🔐 Comfortable with **authentication, real-time systems, and REST APIs**
+- 📈 Continuously improving **code quality, architecture, and developer experience**
 - 🎯 Currently sharpening skills in **NestJS testing, system design, and scalable APIs**
 
 ---
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:brijeshio@duck.com) 
+## 🌐 Connect
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:brijeshio@duck.com)
 
-## 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220)  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+---
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=brijeshdevio&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=brijeshdevio&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=brijeshdevio&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+## 💻 Tech Stack (Core)
 
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=brijeshdevio&limit=5&theme=dark&combine_all_yearly_contributions=true)
+**Frontend**
+- HTML, CSS JavaScript
+- React, TypeScript, Next.js
+- Tailwind CSS, DaisyUI
+- React Query, Redux, React Hook Form
+
+**Backend**
+- Node.js, NestJS, Express
+- REST APIs, WebSockets
+- OAuth, JWT Auth, Cookies, Role-based access
+
+**Databases & ORM**
+- MongoDB, PostgreSQL, SQLite
+- Prisma, Mongoose, Sequelize
+
+**Tooling & DevOps**
+- Git, GitHub
+- Docker
+- Jest, Vitest
+- Postman, Swagger
+- Vercel, Netlify
+- pnpm, Vite
+
+> I value **clarity, performance, and maintainability** over chasing tools.
 
 ---
 
@@ -37,91 +56,98 @@ I enjoy turning complex requirements into simple, intuitive experiences and ship
 
 ### 🔹 SnippetX — Code Snippet Saver & Organizer
 
-SnippetX is a web application that allows developers to save, organize, search, and manage code snippets.
+A developer-focused SaaS-style app for saving, organizing, and managing reusable code snippets.
+
+**Why this project**
+- Designed to solve **real developer workflow pain**
+- Built with **scalable backend structure** and clean UI states
 
 **Key Features**
+- Create, edit, delete snippets
+- Syntax-highlighted editor
+- Tags & folders
+- Pagination & search
+- AI-assisted snippet generation
+- Dashboard with usage stats
+- Authentication (JWT + Cookies)
 
-- Create, edit, delete code snippets
-- Syntax highlighted editor
-- Tags & folders for quick organization
-- Pagination
-- Generate snippets using AI
-- Search snippets instantly
-- Dashboard with stats
-- User authentication (Login/Signup/Logout)
+**Tech**
+- React, TypeScript, Tailwind, TanStack Query
+- NestJS, MongoDB (Mongoose)
 
-**Tech Stack**
-
-- Frontend: React, TypeScript, Tailwind CSS, DaisyUI, Tanstack Query
-- Backend: Node.js, NestJS, Mongoose
-- Database: MongoDB
-- Auth: JWT + Cookies
-
-🔗 Repository: https://github.com/brijeshdevio/snippet-x
+🔗 https://github.com/brijeshdevio/snippet-x
 
 ---
 
 ### 🔹 QuickTalk — Real-Time Chat Application
-A WhatsApp-like real-time chat application built from scratch.
 
-**Key Features**
-- User authentication
-- Add contacts & chat list sidebar
-- Real-time messaging with WebSockets
-- Live online/offline status
-- Clean UI with clear empty & loading states
+A WhatsApp-like real-time chat application built from scratch to understand **real-time systems deeply**.
 
-**Tech Stack**
-- Frontend: React, TypeScript, Tailwind CSS
-- Backend: Node.js, WebSockets
-- Database: MongoDB
+**Key Engineering Focus**
+- Event-driven messaging
+- WebSocket-based real-time updates
+- Clean handling of loading, empty, and error states
 
-🔗 Repository: https://github.com/brijeshdevio/quick-talk
+**Features**
+- Authentication
+- Contacts & chat sidebar
+- Real-time messaging
+- Online/offline presence
+
+**Tech**
+- React, TypeScript, Tailwind
+- Node.js, WebSockets
+- MongoDB
+
+🔗 https://github.com/brijeshdevio/quick-talk
 
 ---
 
-### 🔹 Cloudio — Image Drive (Google Drive-like)
-A focused cloud storage app designed **only for images & folders**, avoiding unnecessary complexity.
+### 🔹 Cloudio — Image Drive (Google Drive–like)
 
-**Key Features**
+A focused cloud storage app built **only for images & folders**, avoiding unnecessary complexity.
+
+**Design Decisions**
+- Narrow scope for better UX
+- Optimized image handling using Cloudinary
+
+**Features**
 - Secure authentication
 - Folder & image management
-- Cloudinary-based image storage
 - Clean “My Drive” experience
 
-**Tech Stack**
-- Frontend: React, TypeScript, TanStack Query, Tailwind, DaisyUI
-- Backend: NestJS, JWT, MongoDB (Mongoose)
+**Tech**
+- React, TypeScript, TanStack Query
+- NestJS, MongoDB
+- JWT Auth
 
-🔗 Repository: https://github.com/brijeshdevio/cloudio
+🔗 https://github.com/brijeshdevio/cloudio
 
 ---
 
-## 🧩 Engineering Focus Areas
+## 🧩 Engineering Focus
 
-- Building **MVPs with just the right features**
-- Designing intuitive UI states (loading, empty, error)
+- Building **MVPs with the right feature set**
+- Designing predictable UI states
 - API-first backend thinking
-- Scalable frontend component trees
-- Real-world SaaS-style product thinking
+- Scalable component and folder structures
+- SaaS-style product mindset
 
 ---
 
 ## 📚 Currently Learning
 
-- NestJS Testing (Unit & E2E)
+- NestJS testing (unit & E2E)
 - Advanced backend patterns
-- System design for scalable web apps
-- Better DX and maintainable codebases
+- System design fundamentals
+- Improving DX and long-term maintainability
 
 ---
 
 ## 🤝 Let’s Connect
 
 - 💼 Open to frontend & full-stack opportunities
-- 📬 Happy to collaborate on meaningful SaaS products
+- 📬 Open to collaboration on meaningful products
 - 🌱 Always learning, always improving
-
----
 
 ⭐ If you like my work, consider starring the repositories!
