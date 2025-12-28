@@ -35,6 +35,32 @@ I enjoy turning complex requirements into simple, intuitive experiences and ship
 
 ## 📦 Featured Projects
 
+### 🔹 SnippetX — Code Snippet Saver & Organizer
+
+SnippetX is a web application that allows developers to save, organize, search, and manage code snippets.
+
+**Key Features**
+
+- Create, edit, delete code snippets
+- Syntax highlighted editor
+- Tags & folders for quick organization
+- Pagination
+- Generate snippets using AI
+- Search snippets instantly
+- Dashboard with stats
+- User authentication (Login/Signup/Logout)
+
+**Tech Stack**
+
+- Frontend: React, TypeScript, Tailwind CSS, DaisyUI, Tanstack Query
+- Backend: Node.js, NestJS, Mongoose
+- Database: MongoDB
+- Auth: JWT + Cookies
+
+🔗 Repository: https://github.com/brijeshdevio/snippet-x
+
+---
+
 ### 🔹 QuickTalk — Real-Time Chat Application
 A WhatsApp-like real-time chat application built from scratch.
 
