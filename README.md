@@ -19,7 +19,10 @@ I enjoy turning complex requirements into **simple, intuitive experiences** — 
 ---
 
 ## 🌐 Connect
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:brijeshio@duck.com)
+- **LinkedIn:** [in/brijeshsoftdev](https://www.linkedin.com/in/brijeshsoftdev/)
+- **Twitter/X:** [@brijeshgpdev](https://twitter.com/brijeshgpdev)
+- **Email:** [brijeshio@duck.com](mailto:brijeshio@duck.com)
+- **Instagram:** [brijeshsoftdev](https://www.instagram.com/brijeshsoftdev/)
 
 ---
 
