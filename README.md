@@ -1,156 +1,88 @@
 # 👋 Hi, I'm Brijesh
 
-🚀 **Frontend-focused Full-Stack Engineer**  
-I build **clean, scalable, and user-centric web applications** with modern JavaScript, strong backend fundamentals, and real-world product thinking.
+Backend developer who likes building systems that don’t fall apart under load — auth, background jobs, real-time stuff.
 
-I enjoy turning complex requirements into **simple, intuitive experiences** — and shipping **real products**, not just demos.
+Not chasing shiny frameworks. I care more about writing code that behaves properly when things break, because they always do.
 
----
-
-## 🚀 About Me
-
-- 💻 Frontend engineer with strong full-stack ownership
-- 🧠 Deep focus on **React performance, state management, and UX clarity**
-- 🏗️ Experienced in building **production-ready MVPs** (scope-driven, not over-engineered)
-- 🔐 Comfortable with **authentication, real-time systems, and REST APIs**
-- 📈 Continuously improving **code quality, architecture, and developer experience**
-- 🎯 Currently sharpening skills in **NestJS testing, system design, and scalable APIs**
+Most of my work is around Node.js and NestJS with PostgreSQL or MongoDB. Lately I’ve been thinking a lot about failure cases and how to avoid silent bugs.
 
 ---
 
-## 🌐 Connect
-- **LinkedIn:** [in/brijeshsoftdev](https://www.linkedin.com/in/brijeshsoftdev/)
-- **Twitter/X:** [@brijeshgpdev](https://twitter.com/brijeshgpdev)
-- **Email:** [brijeshio@duck.com](mailto:brijeshio@duck.com)
-- **Instagram:** [brijeshsoftdev](https://www.instagram.com/brijeshsoftdev/)
+## 🛠️ What I work with
+
+- **Languages:** TypeScript, JavaScript  
+- **Backend:** Node.js, Express, NestJS  
+- **Databases:** PostgreSQL (Prisma), MongoDB (Mongoose)  
+- **Queues & Caching:** Redis, BullMQ  
+- **Frontend:** React, Tailwind, TanStack Query  
+
+I can handle full-stack work, but backend is where I’m most comfortable.
 
 ---
 
-## 💻 Tech Stack (Core)
+## 🚀 Things I’ve built
 
-**Frontend**
-- HTML, CSS JavaScript
-- React, TypeScript, Next.js
-- Tailwind CSS, DaisyUI
-- React Query, Redux, React Hook Form
+### 🖼️ PicURL
+Upload images. Get URLs. Done.
 
-**Backend**
-- Node.js, NestJS, Express
-- REST APIs, WebSockets
-- OAuth, JWT Auth, Cookies, Role-based access
+PicURL is a developer-focused SaaS image upload and delivery platform built for things like avatars, social media assets, and general app usage.
 
-**Databases & ORM**
-- MongoDB, PostgreSQL, SQLite
-- Prisma, Mongoose, Sequelize
+It provides a fast and simple API to upload images and retrieve public URLs, along with authentication, API key management, and a clean dashboard.
 
-**Tooling & DevOps**
-- Git, GitHub
-- Docker
-- Jest, Vitest
-- Postman, Swagger
-- Vercel, Netlify
-- pnpm, Vite
-
-> I value **clarity, performance, and maintainability** over chasing tools.
+- https://github.com/brijeshdevio/pic-url
+- https://picurl.brijeshdev.in/  
 
 ---
 
-## 📦 Featured Projects
+### 🔐 Auth Service
+A proper authentication system with access/refresh tokens, rotation, RBAC, and device-level session control.
 
-### 🔹 SnippetX — Code Snippet Saver & Organizer
+Built it because most tutorials stop before the hard parts.
 
-A developer-focused SaaS-style app for saving, organizing, and managing reusable code snippets.
-
-**Why this project**
-- Designed to solve **real developer workflow pain**
-- Built with **scalable backend structure** and clean UI states
-
-**Key Features**
-- Create, edit, delete snippets
-- Syntax-highlighted editor
-- Tags & folders
-- Pagination & search
-- AI-assisted snippet generation
-- Dashboard with usage stats
-- Authentication (JWT + Cookies)
-
-**Tech**
-- React, TypeScript, Tailwind, TanStack Query
-- NestJS, MongoDB (Mongoose)
-
-🔗 https://github.com/brijeshdevio/snippet-x
+- https://github.com/brijeshdevio/authify
+- https://authify.brijeshdev.in/
 
 ---
 
-### 🔹 QuickTalk — Real-Time Chat Application
+### 🧠 SnippetX
+Snippet manager with tagging, search, syntax highlighting, and AI-assisted generation.
 
-A WhatsApp-like real-time chat application built from scratch to understand **real-time systems deeply**.
+Built because I kept losing useful code across projects.
 
-**Key Engineering Focus**
-- Event-driven messaging
-- WebSocket-based real-time updates
-- Clean handling of loading, empty, and error states
-
-**Features**
-- Authentication
-- Contacts & chat sidebar
-- Real-time messaging
-- Online/offline presence
-
-**Tech**
-- React, TypeScript, Tailwind
-- Node.js, WebSockets
-- MongoDB
-
-🔗 https://github.com/brijeshdevio/quick-talk
+- https://github.com/brijeshdevio/snippet-x  
+- https://snippetx.brijeshdev.in/
 
 ---
 
-### 🔹 Cloudio — Image Drive (Google Drive–like)
+### 💬 QuickTalk
+Real-time chat app using WebSockets with online presence and persistent messaging.
 
-A focused cloud storage app built **only for images & folders**, avoiding unnecessary complexity.
+Built to understand event-driven systems without hiding behind abstractions.
 
-**Design Decisions**
-- Narrow scope for better UX
-- Optimized image handling using Cloudinary
-
-**Features**
-- Secure authentication
-- Folder & image management
-- Clean “My Drive” experience
-
-**Tech**
-- React, TypeScript, TanStack Query
-- NestJS, MongoDB
-- JWT Auth
-
-🔗 https://github.com/brijeshdevio/cloudio
+- https://github.com/brijeshdevio/quick-talk
+- https://quicktalk.brijeshdev.in/    
 
 ---
 
-## 🧩 Engineering Focus
+### ☁️ Cloudio
+Image storage app with folder management and Cloudinary integration.
 
-- Building **MVPs with the right feature set**
-- Designing predictable UI states
-- API-first backend thinking
-- Scalable component and folder structures
-- SaaS-style product mindset
+Kept the scope tight on purpose instead of turning it into a bloated clone.
 
----
-
-## 📚 Currently Learning
-
-- NestJS testing (unit & E2E)
-- Advanced backend patterns
-- System design fundamentals
-- Improving DX and long-term maintainability
+- https://github.com/brijeshdevio/cloudio  
+- https://cloudio.brijeshdev.in/
 
 ---
 
-## 🤝 Let’s Connect
+## 🎯 What I’m focusing on now
 
-- 💼 Open to frontend & full-stack opportunities
-- 📬 Open to collaboration on meaningful products
-- 🌱 Always learning, always improving
+- Getting better at system design  
+- Building backends that are easy to extend and don’t fail in weird ways  
 
-⭐ If you like my work, consider starring the repositories!
+---
+
+## 🌐 Find me
+
+- https://linkedin.com/in/brijeshsoftdev  
+- https://brijeshdev.in  
+- brijeshio@duck.com  
