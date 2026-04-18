@@ -29,8 +29,8 @@ PicURL is a developer-focused SaaS image upload and delivery platform built for 
 
 It provides a fast and simple API to upload images and retrieve public URLs, along with authentication, API key management, and a clean dashboard.
 
-- https://github.com/brijeshdevio/pic-url
-- https://picurl.brijeshdev.in/  
+- [https://github.com/brijeshdevio/picurl](https://github.com/brijeshdevio/picurl)
+- [https://picurl.brijeshdev.in/](https://picurl.brijeshdev.in/)
 
 ---
 
@@ -39,8 +39,8 @@ A proper authentication system with access/refresh tokens, rotation, RBAC, and d
 
 Built it because most tutorials stop before the hard parts.
 
-- https://github.com/brijeshdevio/authify
-- https://authify.brijeshdev.in/
+- [https://github.com/brijeshdevio/authify](https://github.com/brijeshdevio/authify)
+- [https://authify.brijeshdev.in/](https://authify.brijeshdev.in/)
 
 ---
 
@@ -49,28 +49,18 @@ Snippet manager with tagging, search, syntax highlighting, and AI-assisted gener
 
 Built because I kept losing useful code across projects.
 
-- https://github.com/brijeshdevio/snippet-x  
-- https://snippetx.brijeshdev.in/
+- [https://github.com/brijeshdevio/snippetx](https://github.com/brijeshdevio/snippetx)
+- [https://snippetx.brijeshdev.in/](https://snippetx.brijeshdev.in/)
 
 ---
 
-### 💬 QuickTalk
-Real-time chat app using WebSockets with online presence and persistent messaging.
+### 🎬 ReelGrab
+Download Instagram Reels in minutes.
 
-Built to understand event-driven systems without hiding behind abstractions.
+Fast, free, and without watermark.
 
-- https://github.com/brijeshdevio/quick-talk
-- https://quicktalk.brijeshdev.in/    
-
----
-
-### ☁️ Cloudio
-Image storage app with folder management and Cloudinary integration.
-
-Kept the scope tight on purpose instead of turning it into a bloated clone.
-
-- https://github.com/brijeshdevio/cloudio  
-- https://cloudio.brijeshdev.in/
+- [https://github.com/brijeshdevio/reelgrab](https://github.com/brijeshdevio/reelgrab)
+- [https://reelgrab.brijeshdev.in/](https://reelgrab.brijeshdev.in/)
 
 ---
 
